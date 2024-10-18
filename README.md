@@ -61,7 +61,6 @@ El proyecto está compuesto por las siguientes clases y subclases:
 - **Atributos Específicos**:
   - `hospedaje`: Tipo de hospedaje (ej. Cabaña, Habitación).
   - `precioPorNoche`: Precio por noche de hospedaje.
-  - `diaSemDesc`: Dia de la semana con descuento.
 - **Métodos**:
   - `calcularPrecioFinal(LocalDate dia)`: Aplica descuentos entre semana (lunes a viernes) si el servicio está en
     promoción.
